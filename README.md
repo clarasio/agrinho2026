@@ -1,5 +1,5 @@
 # A Harmonia entre o Campo e a Cidade
-## Projeto Agrinho 2025: Festejando a Conexão Campo-Cidade
+## Projeto Agrinho 2026: Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente
 
 Este projeto é uma página web dedicada a celebrar e informar sobre a **Conexão Campo-Cidade** no contexto do evento **Agrinho 2025**. Através de uma abordagem visual e clara, o site explora a importância da zona rural para a vida urbana, destacando a produção de alimentos, a proteção animal e a sustentabilidade. O conteúdo é dividido em seções que promovem a valorização do campo e o entendimento mútuo entre esses dois pilares da nossa sociedade.
 
